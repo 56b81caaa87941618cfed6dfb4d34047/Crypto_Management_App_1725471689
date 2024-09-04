@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll start developing the Aave interaction component now.",
+        "message_id": "guest04092024174409",
+        "timestamp": "04092024174410",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "generate a component to interact with aave (0x5D4Aa78B08Bc7C530e21bf7447988b1Be7991322) on ethereum",
         "message_id": "guest04092024174409",
