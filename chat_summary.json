@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific functionalities do you want this component to provide for interacting with Aave?\", \"option1\": \"Lending and borrowing capabilities\", \"option2\": \"Viewing and managing account balances\"}, {\"question 2\": \"How would you like the user interface for this component to be designed?\", \"option1\": \"Minimalistic and simple\", \"option2\": \"Detailed with advanced options\"}], \"input_token_count\": 404, \"output_token_count\": 92, \"time_taken\": \"0:00:02.848459\"}",
+        "timestamp": "04092024174415",
+        "message_id": "guest04092024174409"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll start developing the Aave interaction component now.",
         "timestamp": "04092024174410",
