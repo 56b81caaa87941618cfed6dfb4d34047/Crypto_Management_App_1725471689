@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific functionalities do you want this Aave interaction component to have?\", \"option1\": \"Allow users to deposit and withdraw assets\", \"option2\": \"Display interest rates and available assets for trading\"}, {\"question 2\": \"How do you envision the design of this component in terms of user interface?\", \"option1\": \"Simple and minimalistic layout\", \"option2\": \"Detailed layout with charts and analytics\"}], \"input_token_count\": 350, \"output_token_count\": 99, \"time_taken\": \"0:00:01.364300\"}",
+        "timestamp": "04092024174220",
+        "message_id": "guest04092024174215"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll create a component for Aave interaction now.",
         "timestamp": "04092024174216",
