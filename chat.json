@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Component for Aave interaction (includes deposit, borrow, and withdraw features)\", \"checked\": true}, {\"feature\": \"User-friendly UI for managing multiple cryptocurrencies\", \"checked\": false}, {\"feature\": \"Real-time price tracking widget for cryptocurrencies\", \"checked\": true}, {\"feature\": \"Notification system for significant price changes\", \"checked\": false}, {\"feature\": \"Integration with major wallets (MetaMask, Trust Wallet, etc.)\", \"checked\": true}, {\"feature\": \"Dark mode for better visibility at night\", \"checked\": false}], \"input_token_count\": 358, \"output_token_count\": 127, \"time_taken\": \"0:00:01.940827\"}",
+        "message_id": "guest04092024174409",
+        "timestamp": "04092024174502",
+        "component_file_name": "contact_form_1725471719",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific functionalities do you want this component to provide for interacting with Aave?\", \"option1\": \"Lending and borrowing capabilities\", \"option2\": \"Viewing and managing account balances\"}, {\"question 2\": \"How would you like the user interface for this component to be designed?\", \"option1\": \"Minimalistic and simple\", \"option2\": \"Detailed with advanced options\"}], \"input_token_count\": 404, \"output_token_count\": 92, \"time_taken\": \"0:00:02.848459\"}",
         "message_id": "guest04092024174409",
